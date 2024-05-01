@@ -1,6 +1,6 @@
 # Awesome AI leaderboards
 
-Leaderboards, benchmarks, and datasets to help you choose your model 🧐
+Leaderboards, benchmarks, and datasets to help you pick a model or guide your own development 🧐
 
 | Name | Paper | Code | Leaderboard | Evaluation |
 |------|-------|-----------|-------------|------------|
