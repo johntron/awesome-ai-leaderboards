@@ -20,5 +20,6 @@ Leaderboards, benchmarks, and datasets to help you pick a model or guide your ow
 
 Also, here's some tools worth mentioning:
 
+* [State of the Art](https://paperswithcode.com/sota): massive collection of leaderboards, benchmarks, etc. organized by task domain.
 * [Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness): framework for evaluating against over 60 academic benchmarks (used by Hugging Face's Open LLM Leaderboard.
 * [OpenAI Evals](https://github.com/openai/evals): "a framework for evaluating large language models (LLMs) or systems built using LLMs"
