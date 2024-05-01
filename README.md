@@ -4,6 +4,7 @@ Leaderboards, benchmarks, and datasets to help you pick a model or guide your ow
 
 | Name | Paper | Code | Leaderboard | Evaluation |
 |------|-------|-----------|-------------|------------|
+|MMLU | [Paper](https://arxiv.org/pdf/2009.03300.pdf) | [Code](https://github.com/hendrycks/test) | [Leaderboard](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu) | 
 | Chatbot Arena | [Paper](https://arxiv.org/abs/2403.04132) | [Code](https://github.com/lm-sys/FastChat) | [Leaderboard](https://arena.lmsys.org/) | Alignment with human preferences |
 | 🤗 Open LLM Leaderboard | | See About: Reproducability | [Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) | Various (generative models) |
 | HellaSwag | [Paper](https://rowanzellers.com/hellaswag/) | [Code](https://rowanzellers.com/hellaswag/) | [Leaderboard](https://rowanzellers.com/hellaswag/) | Commonsense reasoning |
