@@ -17,3 +17,4 @@ Leaderboards, benchmarks, and datasets to help you choose your model 🧐
 Also, here's some tools worth mentioning:
 
 * [Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness): framework for evaluating against over 60 academic benchmarks (used by Hugging Face's Open LLM Leaderboard.
+* [OpenAI Evals](https://github.com/openai/evals): "a framework for evaluating large language models (LLMs) or systems built using LLMs"
