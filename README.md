@@ -4,6 +4,7 @@ Leaderboards, benchmarks, and datasets to help you choose your model 🧐
 
 | Name | Paper | Code | Leaderboard | Evaluation |
 |------|-------|-----------|-------------|------------|
+| Chatbot Arena | [Paper](https://arxiv.org/abs/2403.04132) | [Code](https://github.com/lm-sys/FastChat) | [Leaderboard](https://arena.lmsys.org/) | Alignment with human preferences |
 | 🤗 Open LLM Leaderboard | | See About: Reproducability | [Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) | Various (generative models) |
 | HellaSwag | [Paper](https://rowanzellers.com/hellaswag/) | [Code](https://rowanzellers.com/hellaswag/) | [Leaderboard](https://rowanzellers.com/hellaswag/) | Commonsense reasoning |
 | Optimium Benchmark | | [Code](https://github.com/huggingface/optimum-benchmark) | [Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) | Computational performance |
