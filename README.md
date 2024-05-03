@@ -4,6 +4,7 @@ Leaderboards, benchmarks, and datasets to help you pick a model or guide your ow
 
 | Name | Paper | Code | Leaderboard | Evaluation |
 |------|-------|-----------|-------------|------------|
+| Vellum LLM Leaderboard | _none_ | _none_ | [Leaderboard](https://www.vellum.ai/llm-leaderboard) | Various capabilities and price of proprietary and open generative models |
 |MMLU | [Paper](https://arxiv.org/pdf/2009.03300.pdf) | [Code](https://github.com/hendrycks/test) | [Leaderboard](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu) | World knowledge and problem solving |
 | GPQA | [Paper](https://arxiv.org/abs/2311.12022) | [Code](https://github.com/idavidrein/gpqa) | ??? | Expert knowledge |
 | HumanEval | [Paper](https://arxiv.org/abs/2107.03374) | [Code](https://github.com/openai/human-eval?tab=readme-ov-file) | [Leaderboard](https://paperswithcode.com/sota/code-generation-on-humaneval) | Code generation |
